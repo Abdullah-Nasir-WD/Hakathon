@@ -1,0 +1,56 @@
+.bg-trans{
+    background: transparent;
+}
+.pad{
+    padding: 20px;
+}
+.nav-btn{
+        border: 1px solid black;
+        border-radius: 10px;
+        padding: 2px;
+}
+.p-l{
+    padding-left: 40%;
+}
+.m-l{
+    margin-left: 50px;
+}
+.m-t{
+    margin-top: 50px;
+}
+.ml-img{
+    margin-left: 150px;
+}
+.gap-8{
+    gap: 8%;
+}
+.bg-black{
+    background-color: black;
+}
+.text-white{
+    color: white;
+}
+.p-t{
+    padding-top: 10px;
+}
+.fsl{
+    font-size: 2.5rem;
+}
+.bg-green{
+    background-color: lightgreen;
+}
+
+.border-s{
+    border: 2px solid black;
+}
+.pad{
+    padding: 80px;
+    border-radius: 30px;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.bg-gray{
+    background-color: lightgray;
+    border-radius: 30px;
+}
